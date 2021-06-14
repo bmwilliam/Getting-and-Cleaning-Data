@@ -24,7 +24,8 @@ run_analysis.R does the following:
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-=======================================================================================
+==================================================================
+
 This repo includes the following files:
 - 'README.md'
 - 'run_analysis.R' : R script for performing the analysis
